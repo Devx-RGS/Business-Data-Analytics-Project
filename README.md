@@ -49,3 +49,8 @@ It demonstrates an end-to-end data analysis workflow starting from raw data proc
 ## Purpose of This Project
 
 It demonstrates practical skills in data analysis and business intelligence using real-world tools.
+
+
+Below is a preview of the interactive Power BI dashboard developed for this analysis.
+<img width="1270" height="687" alt="image" src="https://github.com/user-attachments/assets/3414a302-61c8-490b-a49b-f08f8675dbe5" />
+
